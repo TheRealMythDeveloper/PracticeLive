@@ -1,0 +1,18 @@
+.site-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    padding: 15px 30px;
+
+    background: #202B3C;
+
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+.header {
+    color:#202B3C;
+    
+}
